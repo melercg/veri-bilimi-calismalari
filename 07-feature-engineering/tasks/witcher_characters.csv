@@ -1,0 +1,21 @@
+name,character_class,region,power_level,is_monster
+Geralt,witcher,Kaer Morhen,95,0
+Ciri,witcher,Skellige,88,0
+Yennefer,sorceress,Nilfgaard,90,0
+Triss,sorceress,Novigrad,80,0
+Vesemir,witcher,Kaer Morhen,78,0
+Eskel,witcher,Kaer Morhen,77,0
+Lambert,witcher,Kaer Morhen,74,0
+Zoltan,dwarf,Novigrad,65,0
+Dandelion,bard,Novigrad,60,0
+Roach,horse,Kaer Morhen,40,0
+Leshen,monster,Swamp,85,1
+Drowner,monster,Swamp,45,1
+Griffin,monster,Skellige,70,1
+Fiend,monster,Swamp,68,1
+Werewolf,monster,Forest,72,1
+Harpie,monster,Skellige,50,1
+Ekimma,monster,Forest,55,1
+Katakan,monster,Forest,52,1
+Bruxa,monster,Forest,58,1
+Water Hag,monster,Swamp,47,1

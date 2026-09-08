@@ -1,0 +1,8 @@
+pytest
+requests
+watchdog
+numpy
+pandas
+scipy
+scikit-learn
+imblearn
